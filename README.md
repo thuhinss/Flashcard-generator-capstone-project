@@ -6,7 +6,12 @@ This is a frontend capston project given by the Almabetter which is Flashcard Ge
 ## Deployment
 
 Click on the link to see my flashcard generator website
-https://thuhinss-flashcard-generator.netlify.app/
+
+- https://thuhinss-flashcard-generator.netlify.app/
+
+ 
+## Explanation Video ( Youtube ) Link
+
 
 ## Run Locally
 
