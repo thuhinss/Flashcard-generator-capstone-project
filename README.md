@@ -1,20 +1,12 @@
 
-# Almabetter-Flashcard-Generator-Capstone-Project
+# Almabetter Capstone-Project- Flashcard-Generator
 
 This is a frontend capston project given by the Almabetter which is Flashcard Generator
-
-## Interface-with-Light-mode
-
-![image](https://github.com/thuhinss/FlashCard-Generator/assets/118264201/dd169d45-26ef-4093-b186-c5122a611796)
-
-## Interface-with-Dark-mode-enabled
-
-![image](https://github.com/thuhinss/FlashCard-Generator/assets/118264201/c85222eb-7e2e-4cb0-8b39-e93805410b9c)
-
 
 ## Deployment
 
 Click on the link to see my flashcard generator website
+https://thuhinss-flashcard-generator.netlify.app/
 
 ## Run Locally
 
@@ -78,6 +70,3 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 
 ## Skills
 Javascript, HTML, CSS, ReactJS, Redux
-
-## Deployed app
-https://thuhinss-flashcard-generator.netlify.app/
