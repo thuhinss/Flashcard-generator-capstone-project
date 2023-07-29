@@ -12,6 +12,8 @@ Click on the link to see my flashcard generator website
  
 ## Explanation Video ( Youtube ) Link
 
+- https://youtu.be/I6utH4ncqAk
+
 
 ## Run Locally
 
